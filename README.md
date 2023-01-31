@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Jenkins and Shell-scripting.
 - 📫 How to reach me: rudrakshigupta305@gmail.com
 - 😄 Pronouns: Call me "Roo" 😙.
-- ⚡ Fun fact: A astrophile. 🌠
+- ⚡ Fun fact: An astrophile. 🌠
 
 <!--
 **rudrakshi-gupta/rudrakshi-gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
