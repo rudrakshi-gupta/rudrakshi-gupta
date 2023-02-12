@@ -20,10 +20,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-onedark, gruvbox, dark, radical, dracula, cobalt, merko, tokyonight, highcontrast
+onedark, gruvbox, dark, radical, dracula, cobalt, merko, tokyonight, highcontrast, synthwave, monokai, shades-of-purple, great-gatsby, darcula, bear, ayu-mirage, omni, slateorange
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudrakshi-gupta&show_icons=true&theme=onedark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudrakshi-gupta&show_icons=true&theme=bear&hide_border=false&include_all_commits=true&count_private=true)</br>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=rudrakshi-gupta&theme=radical&hide_border=false)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudrakshi-gupta&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
