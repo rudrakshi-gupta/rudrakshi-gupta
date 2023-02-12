@@ -28,11 +28,12 @@ onedark, gruvbox, dark, radical, dracula, cobalt, merko, tokyonight, highcontras
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudrakshi-gupta&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <hr>
-<h3 align="left">Meet me At : </h3>
+<h3 align="left">Connect with me on : </h3>
 <p align="left">
 <a href="https://www.hackerrank.com/h500087336" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="h500087336" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rooooooooo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rooooooooo" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@jmocking918" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@jmocking918" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rudrakshippwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rudrakshippwu" height="30" width="40" /></a>
 <a href="https://medium.com/@rudrakshigupta305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rudrakshigupta305" height="30" width="40" /></a>
+<!-- <a href="https://www.linkedin.com/in/rudrakshi-gupta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudrakshi-gupta" height="30" width="40" /></a> -->
 </p> -->
