@@ -22,12 +22,14 @@ Here are some ideas to get you started:
 
 onedark, gruvbox, dark, radical, dracula, cobalt, merko, tokyonight, highcontrast, synthwave, monokai, shades-of-purple, great-gatsby, darcula, bear, ayu-mirage, omni, slateorange
 -->
-
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rudrakshi-gupta&show_icons=true&locale=en&theme=onedark&hide_border=false&include_all_commits=false&count_private=true" alt="rudrakshi-gupta" /></p> -->
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudrakshi-gupta&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="rudrakshi-gupta" /></p> -->
+<!-- https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rudrakshi-gupta&layout=compact&theme=gruvbox -->
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=rudrakshi-gupta&show_icons=true&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)</br>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rudrakshi-gupta&theme=radical&hide_border=false)
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rudrakshi-gupta&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rudrakshi-gupta&show_icons=true&locale=en&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrakshi-gupta&label=Profile%20views&color=0e75b6&style=flat" alt="rudrakshi-gupta" /></p>
 <hr>
