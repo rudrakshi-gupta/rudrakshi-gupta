@@ -27,7 +27,7 @@ onedark, gruvbox, dark, radical, dracula, cobalt, merko, tokyonight, highcontras
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rudrakshi-gupta&theme=radical&hide_border=false)
 
-[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rudrakshi-gupta&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rudrakshi-gupta&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrakshi-gupta&label=Profile%20views&color=0e75b6&style=flat" alt="rudrakshi-gupta" /></p>
 <hr>
