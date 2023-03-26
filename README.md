@@ -32,6 +32,7 @@ onedark, gruvbox, dark, radical, dracula, cobalt, merko, tokyonight, highcontras
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=rudrakshi-gupta&show_icons=true&locale=en&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrakshi-gupta&label=Profile%20views&color=0e75b6&style=flat" alt="rudrakshi-gupta" /></p>
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red) -->
 <hr>
 <h3 align="left">Connect with me on : </h3>
 <p align="left">
