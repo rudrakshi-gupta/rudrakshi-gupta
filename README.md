@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Botanical Computation Model for Resource Optimization.
 - 🌱 I’m currently learning Jenkins, Graphql and Shell-scripting.
 - 📫 How to reach me: rudrakshigupta305@gmail.com
-- 😄 Pronouns: Call me "Roo" 😙.
+- 🤔 I’m looking for help with - AWS + Android.
 - ⚡ Fun fact: An astrophile. 🌠
 
 <!--
