@@ -34,7 +34,7 @@ onedark, gruvbox, dark, radical, dracula, cobalt, merko, tokyonight, highcontras
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrakshi-gupta&label=Profile%20views&color=0e75b6&style=flat" alt="rudrakshi-gupta" /></p>
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red) -->
 <hr>
-<h3 align="left">Connect with me on : </h3>
+<h3 align="left">Connect with me on : </h3> 
 <p align="left">
 <a href="https://www.hackerrank.com/h500087336" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="h500087336" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rooooooooo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rooooooooo" height="30" width="40" /></a>
