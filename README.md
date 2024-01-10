@@ -27,7 +27,9 @@ onedark, gruvbox, dark, radical, dracula, cobalt, merko, tokyonight, highcontras
 <!-- https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rudrakshi-gupta&layout=compact&theme=gruvbox -->
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rudrakshi-gupta&show_icons=true&locale=en&theme=onedark&hide_border=false)</br>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=rudrakshi-gupta&theme=radical&hide_border=false)
+<!--<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rudrakshi-gupta&theme=radical" alt="GitHub Streak" /></a>-->
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=rudrakshi-gupta&theme=radical&hide_border=false) -->
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=rudrakshi-gupta&theme=radical&hide_border=false)
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=rudrakshi-gupta&show_icons=true&locale=en&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
